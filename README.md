@@ -1,5 +1,7 @@
 # FaceRecognization
 
+# This repo has achieved
+---------------------------
 使用tensorflow构建一个CNN模型来训练fer2013表情数据
 
 ## 需要的包：
